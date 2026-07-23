@@ -1,0 +1,134 @@
+[
+  {
+    "id": "lm",
+    "title": "Love Maniac",
+    "version": "v0.3.4 全CG解锁",
+    "author": "Team Nebula",
+    "introduction": "Love Maniac是一个由粉丝制作的项目，且它与Toby Fox及其原创游戏《Undertale》没有任何关联。如果您喜欢我们的“小游戏”，还请支持原版。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/a2781ea9e872bcfa77a42e1875e7e2d1c8cfa188bc55515fe55f9d02fa8b13f2/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/c0fc80720f11e1c86b4d99bffbe087f60ee6af591dfd9f62ffd09883cff3cd1b/download"
+    }
+  },
+  {
+    "id": "at",
+    "title": "Adulttale",
+    "version": "v0.27.3",
+    "author": "ADULTTALE",
+    "introduction": "在通过屠杀线后，你发现自己在一片虚无中与Chara独处。想要重置，就必须听从Chara的命令。然而她竟然要求你做这种事？！<br>重置世界，实现Chara的要求，甚至在未来，她或许会向你提供一些别的东西？",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/7e1ee520de52c331594eed762f087913905f3e63adadf5a4a27c056b85215dcc/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/1ae1aea9532be721d9fdfc11ad97a98f2aac0dcc5a20f7d2db99798b42698de0/download"
+    }
+  },
+  {
+    "id": "uds",
+    "title": "Undertale: Dating Start",
+    "version": "v1.1.2",
+    "author": "My Dumb Name",
+    "introduction": "一款成人向的《Undertale》的同人作品，作为一款恋爱模拟游戏，你将与一个（或多个）怪物约会，并共度春宵！创造属于自己的容器返回地下世界，探索原作中未曾出现的区域，每场约会后都有多种结局，带来重复游玩的乐趣。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/a82cda31d266153b9bb65af0bd33920f897a6eebfbb34ffc36bffd1d458f390f/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/7c8c99eddab05933fc1e861c810e6cec6892ff887e47e7db22a244feaedfbd80/download"
+    }
+  },
+  {
+    "id": "cce",
+    "title": "逃不掉了库拉拉酱",
+    "version": "v1.5.0",
+    "author": "Machina Box",
+    "introduction": "库拉拉被抓住啦！提升她的好感度，在她迷迷糊糊的时候褪去衣服，不要惹怒她!<br>追加内容密码：WachOut4Fuxa",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/5d9a4620015e93ed3b9f51ceff5cb99569a49d43c9551abcc96438197349c7c4/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/e52116bf566e9f08ddc90ed5c0b22877c6a592bf7a28b12e8d330186670383d3/download"
+    }
+  },
+  {
+    "id": "nly",
+    "title": "Nine Lives of Yoki",
+    "version": "v0.8.4",
+    "author": "YJ Project",
+    "introduction": "Nine Lives of Yoki是一个18+的Furry像素风格RPG。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/3eb5f80bafbee652942b723a9743b3fbc136602f90a5d041c445f6450210a63c/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/a4796b2769f0d0dcf8a6d7472b781ea388acb5e91e0ded9d0e8d150eda74037e/download"
+    }
+  },
+  {
+    "id": "mfr",
+    "title": "我的伪娘室友",
+    "version": "Demo",
+    "author": "Nuteku",
+    "introduction": "你搬到一座新城市并寻找安静的地方开启你的独立开发生涯。你与新室友Robin合租一间公寓。他是一个害羞的21岁主播，以伪娘的身份出现在大众面前。你有与新室友形成真正关系的能力吗？",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/2e27e5fe51e337a632efee4c20d7c1c17caf669b8794f25c9eadf152203b07b5/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/c110549c8a2fd9c55bf8a5cd77e9901ddeadb7c02df21ac970abfe7901748031/download"
+    }
+  },
+  {
+    "id": "iac",
+    "title": "I Am a Chair",
+    "version": "v1.0",
+    "author": "Bibi Piece",
+    "introduction": "你将扮演一个椅子，一位少女端坐在椅子上，你会对她做什么呢？",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/043d54025e9d81a82d0c466c6a8318b4f18b4e22e85626e5beb4a6d7e1eff157/download",
+      "windows": "#"
+    }
+  },
+  {
+    "id": "tc",
+    "title": "Trap the Cat",
+    "version": "v0.1",
+    "author": "Project Physalis",
+    "introduction": "三只顽皮的小猫在陆地上跳来跳去，你需要一点一点缩减她们的移动范围，直到将其抓住。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/afce747aaa212f1966164214ecfc8099e633e47529b9a3933ca1141a2189564a/download",
+      "windows": "#"
+    }
+  },
+  {
+    "id": "dg",
+    "title": "Dice Game",
+    "version": "v1.0 透视",
+    "author": "Kuro MIE",
+    "introduction": "碗里的骰子与你的押注别无二致，坐在你面前的少女也不得不用衣服抵押。当她失去所有衣服后，又该拿什么抵押？",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/28074a29e06ea1b9b884fa1b5987a88038fd0777d4351a171aaa2ceacf8af6b6/download",
+      "windows": "#"
+    }
+  },
+  {
+    "id": "jm",
+    "title": "JMComic3",
+    "version": "v2.0.29",
+    "author": "禁漫天堂",
+    "introduction": "基于jmcomic库自动检查禁漫APK更新。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/281b42e163c49f2a8878b2bc008eac9ecde289867ac9ceb5f678b12adf5c0604/download",
+      "windows": "#"
+    }
+  },
+  {
+    "id": "eh",
+    "title": "EhViewer",
+    "version": "v2.0.2.2",
+    "author": "xiaojieonly",
+    "introduction": "这是一个 E-Hentai Android 平台的浏览器。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/c4909802f284d9f221043ac94851728d39a4399873d07c079cb365679f2e4a11/download",
+      "windows": "#"
+    }
+  },
+  {
+    "id": "af",
+    "title": "AcFan",
+    "version": "v1.9.6",
+    "author": "AcFan",
+    "introduction": "免费最新最全的成人漫画资源。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/944159fc86a7ba4df48facadc3de4b170148033ed0a769933c628d7237cad029/download",
+      "windows": "#"
+    }
+  }
+]
