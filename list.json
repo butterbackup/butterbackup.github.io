@@ -33,6 +33,28 @@
     }
   },
   {
+    "id": "uht",
+    "title": "Under(her)tail: Love and Lust",
+    "version": "v0.3.3",
+    "author": "Under(her) Team",
+    "introduction": "这是一款《Undertale》同人游戏，玩家操控的角色坠入了一个更色情的地下世界。",
+    "download": {
+      "android": "https://workdrive.zohopublic.com.cn/external/521f0302a47bbb20da7ad449f44ffe22e2ac75f35f8a289923228398a7e3777e/download",
+      "windows": "https://workdrive.zohopublic.com.cn/external/07c350656abef7f162b44b094122dc0bc0557361297f2289c562b5a21f795385/download"
+    } 
+  },
+  {
+    "id": "ssg",
+    "title": "Spamton Sex Game",
+    "version": "Demo",
+    "author": "Spamtennagaming",
+    "introduction": "这是一个由两个大学生用RPG MAKER MV制作的《Deltarune》同人游戏，他们有太多的闲暇时间。",
+    "download": {
+      "android": "#",
+      "windows": "https://workdrive.zohopublic.com.cn/external/8898ff4c9e31ded536bd7cdd448a8d0d7b8b7a310f4b71ce298ec8ca603f8412/download"
+    }
+  },
+  {
     "id": "cce",
     "title": "逃不掉了库拉拉酱",
     "version": "v1.5.0",
