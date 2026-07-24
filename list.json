@@ -141,16 +141,5 @@
       "android": "https://workdrive.zohopublic.com.cn/external/c4909802f284d9f221043ac94851728d39a4399873d07c079cb365679f2e4a11/download",
       "windows": "#"
     }
-  },
-  {
-    "id": "af",
-    "title": "AcFan",
-    "version": "v1.9.6",
-    "author": "AcFan",
-    "introduction": "免费最新最全的成人漫画资源。",
-    "download": {
-      "android": "https://workdrive.zohopublic.com.cn/external/944159fc86a7ba4df48facadc3de4b170148033ed0a769933c628d7237cad029/download",
-      "windows": "#"
-    }
   }
 ]
